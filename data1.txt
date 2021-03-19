@@ -1,1 +1,3 @@
 Name: Panida Chanpen
+Weight (kg.): 55
+Height (cm.): 150
